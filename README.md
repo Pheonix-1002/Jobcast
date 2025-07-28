@@ -1,5 +1,4 @@
 #Jobcast
-
 JobCast is a full-stack web application designed to streamline the campus recruitment process by bridging the gap between job seekers (students) and recruiters. Built as a final year project, this platform offers real-world functionality inspired by modern job portals like LinkedIn and Naukri, customized for college use.
 
 🚀 Features
